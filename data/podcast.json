@@ -1,108 +1,387 @@
 {
   "channel": {
-    "title": "OpenCast Feed Engine",
-    "link": "https://example.com",
+  "title": "Ordinary Time Weekly Guide Podcast",
+    "link": "https://ot2guide.dailyaudio.cf/",
     "language": "en-us",
-    "description": "OpenCast Feed Engine is a lightweight, JSON-driven podcast publishing system that gives creators full control over their RSS feed. Define your show and episodes in a single JSON file, deploy through any modern workflow, and instantly generate a standards-compliant RSS feed for Apple Podcasts, Spotify, and all major podcast apps.",
-    "feedUrl": "https://yourdomain.com/api/rss",
-    "author": "Podcast Creator",
-    "summary": "A flexible, creator-friendly podcast feed system powered by JSON and serverless functions.",
+    "description": "<p>A weekly journey through Ordinary Time (Part 2). Explore themes of growth, discipleship, and faith in action.</p>",
+    "feedUrl": "https://rss-feed-ordinary-time-part-2-weekly-guide.vercel.app/api/rss",
+    "author": "Eric Kouassi",
+    "summary": "Weekly reflections, scripture, and prayers for the second half of Ordinary Time.",
     "owner": {
-      "name": "Podcast Creator",
-      "email": "creator@example.com"
+      "name": "Eric Kouassi",
+      "email": "hello@erickouassi.com"
     },
-    "image": "https://yourdomain.com/images/podcast-cover.jpg",
-    "category": {
-      "main": "Education",
-      "sub": "Self-Improvement"
+  "image": "https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-ordinary-time-part-2-weekly-guide/main/images/podcast-cover.jpg",
+  "category": {
+    "main": "Religion &amp; Spirituality",
+    "sub": "Christianity"
+  },
+  "explicit": false,
+  "type": "serial",
+  "copyright": "&#xA9; 2026 Eric Kouassi",
+  "lastBuildDate": "Mon, 26 Jan 2026 10:00:00 -0500",
+  "podcastGuid": "6f9c9cf7-9ac3-5c3d-988a-d43619d5fe5b",
+  "locked": "yes",
+
+  "funding": [
+    {
+      "url": "https://ko-fi.com/erickouassi",
+      "text": "Support the Show by Buying Me a Coffee"
     },
-    "explicit": false,
-    "type": "episodic",
-    "copyright": "&#xA9; 2026 Podcast Creator",
-    "lastBuildDate": "Thu, 26 Feb 2026 09:00:00 -0500",
-    "podcastGuid": "opencast-show-guid-001",
-    "locked": "yes",
-    "funding": [
-  {
-    "url": "https://www.patreon.com/yourpodcast",
-    "text": "Support the Show"
-  },
-  {
-    "url": "https://buymeacoffee.com/yourpodcast",
-    "text": "Buy Me a Coffee"
-  }
-]
-  },
+    {
+      "url": "https://paypal.me/247erickouassi",
+      "text": "Support the Show via PayPal"
+    },
+    {
+      "url": "https://cash.app/$kerickouassi",
+      "text": "Support the Show via CashApp"
+    }
+  ]
+},
 
   "episodes": [
-    {
-      "title": "Welcome to OpenCast",
-      "link": "https://example.com/episodes/welcome",
-      "description": "<p>This introductory episode explains how the OpenCast Feed Engine works, why it was created, and how you can use it to publish your own podcast with full control and zero platform lock-in.</p>",
-      "audioUrl": "https://example.com/audio/episode1.mp3",
-      "audioLength": 4321987,
+ {
+      "title": "Week 1 — The Parable of the Sower",
+      "link": "https://ot2guide.dailyaudio.cf/",
+      "description": "The Parable of the Sower challenges us to be good soil for God's Word. How can you receive His Word this week? Follow along weekly: https://ordinarytime.dailyaudio.cf",
+      "audioUrl": "https://op3.dev/e/www.image2url.com/r2/default/audio/1779599794715-16879295-3ae6-4cb7-8b98-10239f28e0a3.mp3",
+      "audioLength": 1174405,
       "audioType": "audio/mpeg",
-      "guid": "opencast-episode-001",
-      "pubDate": "Mon, 01 Jan 2024 10:00:00 -0500",
-      "author": "Podcast Creator",
-      "subtitle": "A quick introduction to the project",
-      "summary": "Learn what OpenCast is and how it empowers creators.",
-      "duration": "1800",
+      "guid": "ordinary-time-part-2-weekly-guide-01",
+      "pubDate": "Mon, 25 May 2025 10:00:00 -0500",
+      "author": "Eric Kouassi",
+      "subtitle": "Mark 4:14 - 'The farmer sows the word.'",
+      "summary": "A reflection on Mark 4:14 and becoming good soil as we begin Week 1 of 30 in the Ordinary Time journey.",
+      "duration": 118,
       "explicit": false,
       "episode": 1,
-      "season": 1,
+      "season": 2,
       "episodeType": "full",
-      "image": "https://example.com/episode1.jpg",
+      "image": "https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-ordinary-time-part-2-weekly-guide/main/images/podcast-cover.jpg",
       "transcript": {
-        "url": "https://example.com/transcripts/episode1.txt",
+        "url": "https://raw.githubusercontent.com/XP-DEVOTION/playlist-Ordinary-Time-Part-2-Weekly-Guide/refs/heads/main/scripts/Week-1-Parable-of-the-Sower.txt",
         "type": "text/plain"
       }
     },
-
     {
-      "title": "Structuring Your Podcast in JSON",
-      "link": "https://example.com/episodes/json-structure",
-      "description": "<p>This episode walks through the JSON structure used by OpenCast, including channel metadata, episode fields, artwork, and publication settings.</p>",
-      "audioUrl": "https://example.com/audio/episode2.mp3",
-      "audioLength": 3987654,
+      "title": "Week 2 — Faith in Action",
+      "link": "https://ot2guide.dailyaudio.cf/",
+      "description": "Our faith should lead to action. How can you put your faith into practice this week? Follow along weekly: https://ordinarytime.dailyaudio.cf",
+      "audioUrl": "https://op3.dev/e/www.image2url.com/r2/default/audio/1779599894702-e6f0688d-ebb0-4bc7-ad23-aba8cb5f2ed2.mp3",
+      "audioLength": 1205862,
       "audioType": "audio/mpeg",
-      "guid": "opencast-episode-002",
-      "pubDate": "Mon, 08 Jan 2024 10:00:00 -0500",
-      "author": "Podcast Creator",
-      "subtitle": "Understanding the JSON schema",
-      "summary": "A practical guide to organizing your podcast data.",
-      "duration": "2100",
+      "guid": "ordinary-time-part-2-weekly-guide-02",
+      "pubDate": "Mon, 01 Jun 2025 10:00:00 -0500",
+      "author": "Eric Kouassi",
+      "subtitle": "James 2:17 - 'Faith by itself, if it is not accompanied by action, is dead.'",
+      "summary": "A reflection on James 2:17, exploring how living faith manifests through our daily deeds and compassion.",
+      "duration": 121,
       "explicit": false,
       "episode": 2,
-      "season": 1,
+      "season": 2,
       "episodeType": "full",
-      "image": "https://example.com/episode2.jpg",
+      "image": "https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-ordinary-time-part-2-weekly-guide/main/images/podcast-cover.jpg",
       "transcript": {
-        "url": "https://example.com/transcripts/episode2.txt",
+        "url": "https://raw.githubusercontent.com/XP-DEVOTION/playlist-Ordinary-Time-Part-2-Weekly-Guide/refs/heads/main/scripts/Week-2-Faith-in-Action.txt",
         "type": "text/plain"
       }
     },
-
     {
-      "title": "Behind the Scenes: Serverless RSS Generation",
-      "link": "https://example.com/episodes/serverless",
-      "description": "<p>In this bonus episode, we explore how the serverless function transforms JSON into a fully valid RSS feed, and how this approach keeps your workflow simple and scalable.</p>",
-      "audioUrl": "https://example.com/audio/bonus1.mp3",
-      "audioLength": 2987654,
+      "title": "Week 3 — The Vine and the Branches",
+      "link": "https://ot2guide.dailyaudio.cf/",
+      "description": "Jesus calls us to remain in Him. How can you stay connected to Him this week? Follow along weekly: https://ordinarytime.dailyaudio.cf",
+      "audioUrl": "https://op3.dev/e/www.image2url.com/r2/default/audio/1779600000927-c0d1c262-2955-40f7-b376-67ad9cbd0dd3.mp3",
+      "audioLength": 1153434,
       "audioType": "audio/mpeg",
-      "guid": "opencast-episode-bonus-001",
-      "pubDate": "Fri, 12 Jan 2024 10:00:00 -0500",
-      "author": "Podcast Creator",
-      "subtitle": "A look at the engine under the hood",
-      "summary": "How JSON becomes XML through a serverless function.",
-      "duration": "1200",
+      "guid": "ordinary-time-part-2-weekly-guide-03",
+      "pubDate": "Mon, 08 Jun 2025 10:00:00 -0500",
+      "author": "Eric Kouassi",
+      "subtitle": "John 15:5 - 'I am the vine; you are the branches.'",
+      "summary": "A reflection on John 15:5 and the necessity of spiritual abiding to bear fruit in our personal lives.",
+      "duration": 115,
       "explicit": false,
       "episode": 3,
-      "season": 1,
-      "episodeType": "bonus",
-      "image": "https://example.com/bonus1.jpg",
+      "season": 2,
+      "episodeType": "full",
+      "image": "https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-ordinary-time-part-2-weekly-guide/main/images/podcast-cover.jpg",
       "transcript": {
-        "url": "https://example.com/transcripts/bonus1.txt",
+        "url": "https://raw.githubusercontent.com/XP-DEVOTION/playlist-Ordinary-Time-Part-2-Weekly-Guide/refs/heads/main/scripts/Week-3-Vine-and-Branches.txt",
+        "type": "text/plain"
+      }
+    },
+    {
+      "title": "Week 4 — The Greatest Commandment",
+      "link": "https://ot2guide.dailyaudio.cf/",
+      "description": "Love God with all your heart, soul, and mind. How can you prioritize your love for Him this week? Follow along weekly: https://ordinarytime.dailyaudio.cf",
+      "audioUrl": "https://op3.dev/e/www.image2url.com/r2/default/audio/1779600095046-80e3d05a-7e9e-4542-ab83-1a396d1b9d54.mp3",
+      "audioLength": 1142948,
+      "audioType": "audio/mpeg",
+      "guid": "ordinary-time-part-2-weekly-guide-04",
+      "pubDate": "Mon, 15 Jun 2025 10:00:00 -0500",
+      "author": "Eric Kouassi",
+      "subtitle": "Matthew 22:37-38 - 'Love the Lord your God with all your heart.'",
+      "summary": "A reflection on Matthew 22:37-38, centering our focus on the primary call of the Christian life.",
+      "duration": 114,
+      "explicit": false,
+      "episode": 4,
+      "season": 2,
+      "episodeType": "full",
+      "image": "https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-ordinary-time-part-2-weekly-guide/main/images/podcast-cover.jpg",
+      "transcript": {
+        "url": "https://raw.githubusercontent.com/XP-DEVOTION/playlist-Ordinary-Time-Part-2-Weekly-Guide/refs/heads/main/scripts/Week-4-Greatest-Commandment.txt",
+        "type": "text/plain"
+      }
+    },
+    {
+      "title": "Week 5 — The Parable of the Talents",
+      "link": "https://ot2guide.dailyaudio.cf/",
+      "description": "God entrusts us with gifts to use for His Kingdom. How can you use your talents this week? Follow along weekly: https://ordinarytime.dailyaudio.cf",
+      "audioUrl": "https://op3.dev/e/www.image2url.com/r2/default/audio/1779600191552-30b89e35-445f-459d-8787-4f95d519de6f.mp3",
+      "audioLength": 1121976,
+      "audioType": "audio/mpeg",
+      "guid": "ordinary-time-part-2-weekly-guide-05",
+      "pubDate": "Mon, 22 Jun 2025 10:00:00 -0500",
+      "author": "Eric Kouassi",
+      "subtitle": "Matthew 25:21 - 'Well done, good and faithful servant!'",
+      "summary": "A reflection on Matthew 25:21 and the call to faithful stewardship of our unique gifts and skills.",
+      "duration": 111,
+      "explicit": false,
+      "episode": 5,
+      "season": 2,
+      "episodeType": "full",
+      "image": "https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-ordinary-time-part-2-weekly-guide/main/images/podcast-cover.jpg",
+      "transcript": {
+        "url": "https://raw.githubusercontent.com/XP-DEVOTION/playlist-Ordinary-Time-Part-2-Weekly-Guide/refs/heads/main/scripts/Week-5-Parable-of-the-Talents.txt",
+        "type": "text/plain"
+      }
+    },
+    {
+      "title": "Week 6 — The Bread of Life",
+      "link": "https://ot2guide.dailyaudio.cf/",
+      "description": "Jesus is the Bread of Life, sustaining us. Come to Him this week for spiritual nourishment. Follow along weekly: https://ordinarytime.dailyaudio.cf",
+      "audioUrl": "https://op3.dev/e/www.image2url.com/r2/default/audio/1779666986974-8c92b99c-a30a-45a0-8767-25b3e3eb643f.mp3",
+      "audioLength": 1111491,
+      "audioType": "audio/mpeg",
+      "guid": "ordinary-time-part-2-weekly-guide-06",
+      "pubDate": "Mon, 29 Jun 2025 10:00:00 -0500",
+      "author": "Eric Kouassi",
+      "subtitle": "John 6:35 - 'Whoever comes to me will never go hungry.'",
+      "summary": "A reflection on John 6:35, inviting you to find deep spiritual satisfaction in the presence of Christ.",
+      "duration": 110,
+      "explicit": false,
+      "episode": 6,
+      "season": 2,
+      "episodeType": "full",
+      "image": "https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-ordinary-time-part-2-weekly-guide/main/images/podcast-cover.jpg",
+      "transcript": {
+        "url": "https://raw.githubusercontent.com/XP-DEVOTION/playlist-Ordinary-Time-Part-2-Weekly-Guide/refs/heads/main/scripts/Week-6-Bread-of-Life.txt",
+        "type": "text/plain"
+      }
+    },
+    {
+      "title": "Week 7 — Humility",
+      "link": "https://ot2guide.dailyaudio.cf/",
+      "description": "Jesus modeled humility. How can you practice humility in your interactions this week? Follow along weekly: https://ordinarytime.dailyaudio.cf",
+      "audioUrl": "https://op3.dev/e/www.image2url.com/r2/default/audio/1779667306121-30dbc347-d2ea-429f-80ee-be143e6c6366.mp3",
+      "audioLength": 1101005,
+      "audioType": "audio/mpeg",
+      "guid": "ordinary-time-part-2-weekly-guide-07",
+      "pubDate": "Mon, 06 Jul 2025 10:00:00 -0500",
+      "author": "Eric Kouassi",
+      "subtitle": "Philippians 2:3 - 'Value others above yourselves.'",
+      "summary": "A reflection on Philippians 2:3, exploring the strength found in servant-leadership and putting others first.",
+      "duration": 108,
+      "explicit": false,
+      "episode": 7,
+      "season": 2,
+      "episodeType": "full",
+      "image": "https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-ordinary-time-part-2-weekly-guide/main/images/podcast-cover.jpg",
+      "transcript": {
+        "url": "https://raw.githubusercontent.com/XP-DEVOTION/playlist-Ordinary-Time-Part-2-Weekly-Guide/refs/heads/main/scripts/Week-7-Humility.txt",
+        "type": "text/plain"
+      }
+    },
+    {
+      "title": "Week 8 — The Prodigal Son",
+      "link": "https://ot2guide.dailyaudio.cf/",
+      "description": "God's mercy is boundless. Return to Him with any struggles this week. Follow along weekly: https://ordinarytime.dailyaudio.cf",
+      "audioUrl": "https://op3.dev/e/www.image2url.com/r2/default/audio/1779667530520-4c159309-e77e-4ab2-98e6-9af03d6c48a7.mp3",
+      "audioLength": 1111491,
+      "audioType": "audio/mpeg",
+      "guid": "ordinary-time-part-2-weekly-guide-08",
+      "pubDate": "Mon, 13 Jul 2025 10:00:00 -0500",
+      "author": "Eric Kouassi",
+      "subtitle": "Luke 15:20 - 'While he was still a long way off, his father saw him.'",
+      "summary": "A reflection on Luke 15:20, celebrating the unconditional welcome of our Heavenly Father.",
+      "duration": 110,
+      "explicit": false,
+      "episode": 8,
+      "season": 2,
+      "episodeType": "full",
+      "image": "https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-ordinary-time-part-2-weekly-guide/main/images/podcast-cover.jpg",
+      "transcript": {
+        "url": "https://raw.githubusercontent.com/XP-DEVOTION/playlist-Ordinary-Time-Part-2-Weekly-Guide/refs/heads/main/scripts/Week-8-Prodigal-Son.txt",
+        "type": "text/plain"
+      }
+    },
+    {
+      "title": "Week 9 — The Good Samaritan",
+      "link": "https://ot2guide.dailyaudio.cf/",
+      "description": "The Good Samaritan shows us how to love our neighbor. Look for opportunities to show compassion this week. Follow along weekly: https://ordinarytime.dailyaudio.cf",
+      "audioUrl": "https://op3.dev/e/www.image2url.com/r2/default/audio/1779667707957-727ebf2a-c798-438e-bc60-48e5800e1945.mp3",
+      "audioLength": 1101005,
+      "audioType": "audio/mpeg",
+      "guid": "ordinary-time-part-2-weekly-guide-09",
+      "pubDate": "Mon, 20 Jul 2025 10:00:00 -0500",
+      "author": "Eric Kouassi",
+      "subtitle": "Luke 10:33 - 'He saw him and took pity on him.'",
+      "summary": "A reflection on Luke 10:33, encouraging us to look past boundaries to serve those in need.",
+      "duration": 108,
+      "explicit": false,
+      "episode": 9,
+      "season": 2,
+      "episodeType": "full",
+      "image": "https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-ordinary-time-part-2-weekly-guide/main/images/podcast-cover.jpg",
+      "transcript": {
+        "url": "https://raw.githubusercontent.com/XP-DEVOTION/playlist-Ordinary-Time-Part-2-Weekly-Guide/refs/heads/main/scripts/Week-9-Good-Samaritan.txt",
+        "type": "text/plain"
+      }
+    },
+    {
+      "title": "Week 10 — Gratitude",
+      "link": "https://ot2guide.dailyaudio.cf/",
+      "description": "Gratitude transforms our perspective. What are you thankful for this week? Follow along weekly: https://ordinarytime.dailyaudio.cf",
+      "audioUrl": "https://op3.dev/e/www.image2url.com/r2/default/audio/1779667872637-6c704b56-dac9-4617-9924-23d652281bf8.mp3",
+      "audioLength": 1111491,
+      "audioType": "audio/mpeg",
+      "guid": "ordinary-time-part-2-weekly-guide-10",
+      "pubDate": "Mon, 27 Jul 2025 10:00:00 -0500",
+      "author": "Eric Kouassi",
+      "subtitle": "1 Thessalonians 5:18 - 'Give thanks in all circumstances.'",
+      "summary": "A reflection on 1 Thessalonians 5:18 and the power of a grateful heart in our spiritual walk.",
+      "duration": 109,
+      "explicit": false,
+      "episode": 10,
+      "season": 2,
+      "episodeType": "full",
+      "image": "https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-ordinary-time-part-2-weekly-guide/main/images/podcast-cover.jpg",
+      "transcript": {
+        "url": "https://raw.githubusercontent.com/XP-DEVOTION/playlist-Ordinary-Time-Part-2-Weekly-Guide/refs/heads/main/scripts/Week-10-Gratitude.txt",
+        "type": "text/plain"
+      }
+    },
+    {
+      "title": "Week 11 — The Light of the World",
+      "link": "https://ot2guide.dailyaudio.cf/",
+      "description": "Jesus calls us to be His light in the world. How can you shine for Him this week? Follow along weekly: https://ordinarytime.dailyaudio.cf",
+      "audioUrl": "https://op3.dev/e/www.image2url.com/r2/default/audio/1779668041981-0b1b596e-627c-42e3-aed8-76f36e0018e4.mp3",
+      "audioLength": 975708,
+      "audioType": "audio/mpeg",
+      "guid": "ordinary-time-part-2-weekly-guide-11",
+      "pubDate": "Mon, 03 Aug 2025 10:00:00 -0500",
+      "author": "Eric Kouassi",
+      "subtitle": "Matthew 5:14 - 'You are the light of the world.'",
+      "summary": "A reflection on Matthew 5:14, focusing on our identity as witnesses to Christ’s love in our communities.",
+      "duration": 91,
+      "explicit": false,
+      "episode": 11,
+      "season": 2,
+      "episodeType": "full",
+      "image": "https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-ordinary-time-part-2-weekly-guide/main/images/podcast-cover.jpg",
+      "transcript": {
+        "url": "https://raw.githubusercontent.com/XP-DEVOTION/playlist-Ordinary-Time-Part-2-Weekly-Guide/refs/heads/main/scripts/Week-11-Light-of-the-World.txt",
+        "type": "text/plain"
+      }
+    },
+    {
+      "title": "Week 12 — Perseverance",
+      "link": "https://ot2guide.dailyaudio.cf/",
+      "description": "Perseverance in faith leads to a harvest. Keep doing good, even when it's hard. Follow along weekly: https://ordinarytime.dailyaudio.cf",
+      "audioUrl": "https://op3.dev/e/www.image2url.com/r2/default/audio/1779668306611-b328ef46-82c8-4cce-915f-74838b18dffb.mp3",
+      "audioLength": 1024829,
+      "audioType": "audio/mpeg",
+      "guid": "ordinary-time-part-2-weekly-guide-12",
+      "pubDate": "Mon, 10 Aug 2025 10:00:00 -0500",
+      "author": "Eric Kouassi",
+      "subtitle": "Galatians 6:9 - 'Let us not become weary in doing good.'",
+      "summary": "A reflection on Galatians 6:9, offering encouragement to stay the course in your spiritual journey.",
+      "duration": 98,
+      "explicit": false,
+      "episode": 12,
+      "season": 2,
+      "episodeType": "full",
+      "image": "https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-ordinary-time-part-2-weekly-guide/main/images/podcast-cover.jpg",
+      "transcript": {
+        "url": "https://raw.githubusercontent.com/XP-DEVOTION/playlist-Ordinary-Time-Part-2-Weekly-Guide/refs/heads/main/scripts/Week-12-Perseverance.txt",
+        "type": "text/plain"
+      }
+    },
+    {
+      "title": "Week 13 — The Lost Sheep",
+      "link": "https://ot2guide.dailyaudio.cf/",
+      "description": "Jesus seeks the lost with love. How can you reach out to someone who feels lost this week? Follow along weekly: https://ordinarytime.dailyaudio.cf",
+      "audioUrl": "https://op3.dev/e/www.image2url.com/r2/default/audio/1779668472915-ac29ce6a-67d4-4ef9-9f63-87feb1e72f6d.mp3",
+      "audioLength": 1069548,
+      "audioType": "audio/mpeg",
+      "guid": "ordinary-time-part-2-weekly-guide-13",
+      "pubDate": "Mon, 17 Aug 2025 10:00:00 -0500",
+      "author": "Eric Kouassi",
+      "subtitle": "Luke 15:4 - 'Go after the lost sheep until he finds it.'",
+      "summary": "A reflection on Luke 15:4 and our call to reflect the Shepherd's heart for the marginalized.",
+      "duration": 104,
+      "explicit": false,
+      "episode": 13,
+      "season": 2,
+      "episodeType": "full",
+      "image": "https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-ordinary-time-part-2-weekly-guide/main/images/podcast-cover.jpg",
+      "transcript": {
+        "url": "https://raw.githubusercontent.com/XP-DEVOTION/playlist-Ordinary-Time-Part-2-Weekly-Guide/refs/heads/main/scripts/Week-13-Lost-Sheep.txt",
+        "type": "text/plain"
+      }
+    },
+    {
+      "title": "Week 14 — Stewardship",
+      "link": "https://ot2guide.dailyaudio.cf/",
+      "description": "We are stewards of God's gifts. How can you use your time, talents, or resources for Him this week? Follow along weekly: https://ordinarytime.dailyaudio.cf",
+      "audioUrl": "https://op3.dev/e/www.image2url.com/r2/default/audio/1779668682518-758f53a1-de0a-4792-92dd-7fcfee12b470.mp3",
+      "audioLength": 1059062,
+      "audioType": "audio/mpeg",
+      "guid": "ordinary-time-part-2-weekly-guide-14",
+      "pubDate": "Mon, 24 Aug 2025 10:00:00 -0500",
+      "author": "Eric Kouassi",
+      "subtitle": "1 Peter 4:10 - 'Use whatever gift you have received to serve others.'",
+      "summary": "A reflection on 1 Peter 4:10 and the responsibility of using our resources for the common good.",
+      "duration": 103,
+      "explicit": false,
+      "episode": 14,
+      "season": 2,
+      "episodeType": "full",
+      "image": "https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-ordinary-time-part-2-weekly-guide/main/images/podcast-cover.jpg",
+      "transcript": {
+        "url": "https://raw.githubusercontent.com/XP-DEVOTION/playlist-Ordinary-Time-Part-2-Weekly-Guide/refs/heads/main/scripts/Week-14-Stewardship.txt",
+        "type": "text/plain"
+      }
+    },
+    {
+      "title": "Week 15 — The Cost of Discipleship",
+      "link": "https://ot2guide.dailyaudio.cf/",
+      "description": "Following Jesus requires sacrifice. What is He calling you to surrender this week? Follow along weekly: https://ordinarytime.dailyaudio.cf",
+      "audioUrl": "https://op3.dev/e/www.image2url.com/r2/default/audio/1779668830773-7501e3b4-1b45-4b59-b70b-4b78f9e044ce.mp3",
+      "audioLength": 1040067,
+      "audioType": "audio/mpeg",
+      "guid": "ordinary-time-part-2-weekly-guide-15",
+      "pubDate": "Mon, 31 Aug 2025 10:00:00 -0500",
+      "author": "Eric Kouassi",
+      "subtitle": "Luke 14:27 - 'Carry their cross and follow me.'",
+      "summary": "A reflection on Luke 14:27, examining the radical commitment required to follow Christ fully.",
+      "duration": 100,
+      "explicit": false,
+      "episode": 15,
+      "season": 2,
+      "episodeType": "full",
+      "image": "https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-ordinary-time-part-2-weekly-guide/main/images/podcast-cover.jpg",
+      "transcript": {
+        "url": "https://raw.githubusercontent.com/XP-DEVOTION/playlist-Ordinary-Time-Part-2-Weekly-Guide/refs/heads/main/scripts/Week-15-Cost-of-Discipleship.txt",
         "type": "text/plain"
       }
     }
