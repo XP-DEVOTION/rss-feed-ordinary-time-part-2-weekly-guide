@@ -1,7 +1,7 @@
 {
   "channel": {
   "title": "Ordinary Time Weekly Guide Podcast",
-    "link": "https://ot2guide.dailyaudio.cf/",
+    "link": "https://ot2-guide.catholicdevotion.org/",
     "language": "en-us",
     "description": "<p>A weekly journey through Ordinary Time (Part 2). Explore themes of growth, discipleship, and faith in action.</p>",
     "feedUrl": "https://rss-feed-ordinary-time-part-2-weekly-guide.vercel.app/api/rss",
@@ -42,7 +42,7 @@
   "episodes": [
  {
       "title": "Week 1 — The Parable of the Sower",
-      "link": "https://ot2guide.dailyaudio.cf/",
+      "link": "https://ot2-guide.catholicdevotion.org/",
       "description": "The Parable of the Sower challenges us to be good soil for God's Word. How can you receive His Word this week? Follow along weekly: https://ordinarytime.dailyaudio.cf",
       "audioUrl": "https://op3.dev/e/www.image2url.com/r2/default/audio/1779599794715-16879295-3ae6-4cb7-8b98-10239f28e0a3.mp3",
       "audioLength": 1174405,
@@ -65,7 +65,7 @@
     },
     {
       "title": "Week 2 — Faith in Action",
-      "link": "https://ot2guide.dailyaudio.cf/",
+      "link": "https://ot2-guide.catholicdevotion.org/",
       "description": "Our faith should lead to action. How can you put your faith into practice this week? Follow along weekly: https://ordinarytime.dailyaudio.cf",
       "audioUrl": "https://op3.dev/e/www.image2url.com/r2/default/audio/1779599894702-e6f0688d-ebb0-4bc7-ad23-aba8cb5f2ed2.mp3",
       "audioLength": 1205862,
@@ -88,7 +88,7 @@
     },
     {
       "title": "Week 3 — The Vine and the Branches",
-      "link": "https://ot2guide.dailyaudio.cf/",
+      "link": "https://ot2-guide.catholicdevotion.org/",
       "description": "Jesus calls us to remain in Him. How can you stay connected to Him this week? Follow along weekly: https://ordinarytime.dailyaudio.cf",
       "audioUrl": "https://op3.dev/e/www.image2url.com/r2/default/audio/1779600000927-c0d1c262-2955-40f7-b376-67ad9cbd0dd3.mp3",
       "audioLength": 1153434,
@@ -111,7 +111,7 @@
     },
     {
       "title": "Week 4 — The Greatest Commandment",
-      "link": "https://ot2guide.dailyaudio.cf/",
+      "link": "https://ot2-guide.catholicdevotion.org/",
       "description": "Love God with all your heart, soul, and mind. How can you prioritize your love for Him this week? Follow along weekly: https://ordinarytime.dailyaudio.cf",
       "audioUrl": "https://op3.dev/e/www.image2url.com/r2/default/audio/1779600095046-80e3d05a-7e9e-4542-ab83-1a396d1b9d54.mp3",
       "audioLength": 1142948,
@@ -134,7 +134,7 @@
     },
     {
       "title": "Week 5 — The Parable of the Talents",
-      "link": "https://ot2guide.dailyaudio.cf/",
+      "link": "https://ot2-guide.catholicdevotion.org/",
       "description": "God entrusts us with gifts to use for His Kingdom. How can you use your talents this week? Follow along weekly: https://ordinarytime.dailyaudio.cf",
       "audioUrl": "https://op3.dev/e/www.image2url.com/r2/default/audio/1779600191552-30b89e35-445f-459d-8787-4f95d519de6f.mp3",
       "audioLength": 1121976,
@@ -157,7 +157,7 @@
     },
     {
       "title": "Week 6 — The Bread of Life",
-      "link": "https://ot2guide.dailyaudio.cf/",
+      "link": "https://ot2-guide.catholicdevotion.org/",
       "description": "Jesus is the Bread of Life, sustaining us. Come to Him this week for spiritual nourishment. Follow along weekly: https://ordinarytime.dailyaudio.cf",
       "audioUrl": "https://op3.dev/e/www.image2url.com/r2/default/audio/1779666986974-8c92b99c-a30a-45a0-8767-25b3e3eb643f.mp3",
       "audioLength": 1111491,
@@ -180,7 +180,7 @@
     },
     {
       "title": "Week 7 — Humility",
-      "link": "https://ot2guide.dailyaudio.cf/",
+      "link": "https://ot2-guide.catholicdevotion.org/",
       "description": "Jesus modeled humility. How can you practice humility in your interactions this week? Follow along weekly: https://ordinarytime.dailyaudio.cf",
       "audioUrl": "https://op3.dev/e/www.image2url.com/r2/default/audio/1779667306121-30dbc347-d2ea-429f-80ee-be143e6c6366.mp3",
       "audioLength": 1101005,
@@ -203,7 +203,7 @@
     },
     {
       "title": "Week 8 — The Prodigal Son",
-      "link": "https://ot2guide.dailyaudio.cf/",
+      "link": "https://ot2-guide.catholicdevotion.org/",
       "description": "God's mercy is boundless. Return to Him with any struggles this week. Follow along weekly: https://ordinarytime.dailyaudio.cf",
       "audioUrl": "https://op3.dev/e/www.image2url.com/r2/default/audio/1779667530520-4c159309-e77e-4ab2-98e6-9af03d6c48a7.mp3",
       "audioLength": 1111491,
@@ -226,7 +226,7 @@
     },
     {
       "title": "Week 9 — The Good Samaritan",
-      "link": "https://ot2guide.dailyaudio.cf/",
+      "link": "https://ot2-guide.catholicdevotion.org/",
       "description": "The Good Samaritan shows us how to love our neighbor. Look for opportunities to show compassion this week. Follow along weekly: https://ordinarytime.dailyaudio.cf",
       "audioUrl": "https://op3.dev/e/www.image2url.com/r2/default/audio/1779667707957-727ebf2a-c798-438e-bc60-48e5800e1945.mp3",
       "audioLength": 1101005,
@@ -249,7 +249,7 @@
     },
     {
       "title": "Week 10 — Gratitude",
-      "link": "https://ot2guide.dailyaudio.cf/",
+      "link": "https://ot2-guide.catholicdevotion.org/",
       "description": "Gratitude transforms our perspective. What are you thankful for this week? Follow along weekly: https://ordinarytime.dailyaudio.cf",
       "audioUrl": "https://op3.dev/e/www.image2url.com/r2/default/audio/1779667872637-6c704b56-dac9-4617-9924-23d652281bf8.mp3",
       "audioLength": 1111491,
@@ -272,7 +272,7 @@
     },
     {
       "title": "Week 11 — The Light of the World",
-      "link": "https://ot2guide.dailyaudio.cf/",
+      "link": "https://ot2-guide.catholicdevotion.org/",
       "description": "Jesus calls us to be His light in the world. How can you shine for Him this week? Follow along weekly: https://ordinarytime.dailyaudio.cf",
       "audioUrl": "https://op3.dev/e/www.image2url.com/r2/default/audio/1779668041981-0b1b596e-627c-42e3-aed8-76f36e0018e4.mp3",
       "audioLength": 975708,
@@ -295,7 +295,7 @@
     },
     {
       "title": "Week 12 — Perseverance",
-      "link": "https://ot2guide.dailyaudio.cf/",
+      "link": "https://ot2-guide.catholicdevotion.org/",
       "description": "Perseverance in faith leads to a harvest. Keep doing good, even when it's hard. Follow along weekly: https://ordinarytime.dailyaudio.cf",
       "audioUrl": "https://op3.dev/e/www.image2url.com/r2/default/audio/1779668306611-b328ef46-82c8-4cce-915f-74838b18dffb.mp3",
       "audioLength": 1024829,
@@ -318,7 +318,7 @@
     },
     {
       "title": "Week 13 — The Lost Sheep",
-      "link": "https://ot2guide.dailyaudio.cf/",
+      "link": "https://ot2-guide.catholicdevotion.org/",
       "description": "Jesus seeks the lost with love. How can you reach out to someone who feels lost this week? Follow along weekly: https://ordinarytime.dailyaudio.cf",
       "audioUrl": "https://op3.dev/e/www.image2url.com/r2/default/audio/1779668472915-ac29ce6a-67d4-4ef9-9f63-87feb1e72f6d.mp3",
       "audioLength": 1069548,
@@ -341,7 +341,7 @@
     },
     {
       "title": "Week 14 — Stewardship",
-      "link": "https://ot2guide.dailyaudio.cf/",
+      "link": "https://ot2-guide.catholicdevotion.org/",
       "description": "We are stewards of God's gifts. How can you use your time, talents, or resources for Him this week? Follow along weekly: https://ordinarytime.dailyaudio.cf",
       "audioUrl": "https://op3.dev/e/www.image2url.com/r2/default/audio/1779668682518-758f53a1-de0a-4792-92dd-7fcfee12b470.mp3",
       "audioLength": 1059062,
@@ -364,7 +364,7 @@
     },
     {
       "title": "Week 15 — The Cost of Discipleship",
-      "link": "https://ot2guide.dailyaudio.cf/",
+      "link": "https://ot2-guide.catholicdevotion.org/",
       "description": "Following Jesus requires sacrifice. What is He calling you to surrender this week? Follow along weekly: https://ordinarytime.dailyaudio.cf",
       "audioUrl": "https://op3.dev/e/www.image2url.com/r2/default/audio/1779668830773-7501e3b4-1b45-4b59-b70b-4b78f9e044ce.mp3",
       "audioLength": 1040067,
@@ -387,7 +387,7 @@
     },
      {
       "title": "Week 16 — The Power of Prayer",
-      "link": "https://ot2guide.dailyaudio.cf/",
+      "link": "https://ot2-guide.catholicdevotion.org/",
       "description": "Prayer connects us to God's peace. Bring your concerns to Him this week. Follow along weekly: https://ordinarytime.dailyaudio.cf",
       "audioUrl": "https://op3.dev/e/www.image2url.com/r2/default/audio/1787536589736-21337eeb-5294-47fc-87dc-b3ab30a1c0c9.mp3",
       "audioLength": 792447,
@@ -410,7 +410,7 @@
     },
     {
       "title": "Week 17 — The Parable of the Workers",
-      "link": "https://ot2guide.dailyaudio.cf/",
+      "link": "https://ot2-guide.catholicdevotion.org/",
       "description": "God's grace is generous and often surprising. Trust in His fairness and love for all. Follow along weekly: https://ordinarytime.dailyaudio.cf",
       "audioUrl": "https://op3.dev/e/www.image2url.com/r2/default/audio/1787537082821-5fb68f39-15d9-43a2-bbca-187eccae4844.mp3",
       "audioLength": 829477,
@@ -433,7 +433,7 @@
     },
     {
       "title": "Week 18 — Community",
-      "link": "https://ot2guide.dailyaudio.cf/",
+      "link": "https://ot2-guide.catholicdevotion.org/",
       "description": "We grow in faith through community. How can you connect with other believers this week? Follow along weekly: https://ordinarytime.dailyaudio.cf",
       "audioUrl": "https://op3.dev/e/www.image2url.com/r2/default/audio/1787537197811-b6312e68-8c64-4a90-aecf-cf762318e8b5.mp3",
       "audioLength": 791233,
@@ -456,7 +456,7 @@
     },
     {
       "title": "Week 19 — The Rich Young Man",
-      "link": "https://ot2guide.dailyaudio.cf/",
+      "link": "https://ot2-guide.catholicdevotion.org/",
       "description": "Jesus challenges us to let go of attachments. What might He be asking you to release? Follow along weekly: https://ordinarytime.dailyaudio.cf",
       "audioUrl": "https://op3.dev/e/www.image2url.com/r2/default/audio/1787537312490-675eff48-3eda-4331-af4f-a17ef16dc1cd.mp3",
       "audioLength": 808812,
@@ -479,7 +479,7 @@
     },
     {
       "title": "Week 20 — The Widow's Offering",
-      "link": "https://ot2guide.dailyaudio.cf/",
+      "link": "https://ot2-guide.catholicdevotion.org/",
       "description": "God values the heart behind our giving. Give generously, even in small ways, this week. Follow along weekly: https://ordinarytime.dailyaudio.cf",
       "audioUrl": "https://op3.dev/e/www.image2url.com/r2/default/files/1787538222903-16955da9-7275-40df-9250-6ebe4da7beb3.mp3",
       "audioLength": 812435,
@@ -502,7 +502,7 @@
     },
     {
       "title": "Week 21 — The Ten Commandments",
-      "link": "https://ot2guide.dailyaudio.cf/",
+      "link": "https://ot2-guide.catholicdevotion.org/",
       "description": "The Ten Commandments guide us in loving God and others. Reflect on how you can live them out. Follow along weekly: https://ordinarytime.dailyaudio.cf",
       "audioUrl": "https://op3.dev/e/www.image2url.com/r2/default/files/1787538033540-8e172e34-dac5-4fab-b6b0-e8ec79e05177.mp3",
       "audioLength": 788270,
@@ -525,7 +525,7 @@
     },
     {
       "title": "Week 22 — The Parable of the Net",
-      "link": "https://ot2guide.dailyaudio.cf/",
+      "link": "https://ot2-guide.catholicdevotion.org/",
       "description": "The Kingdom of Heaven gathers all people. Pray for those who don't yet know Christ. Follow along weekly: https://ordinarytime.dailyaudio.cf",
       "audioUrl": "https://op3.dev/e/www.image2url.com/r2/default/files/1787538592673-c4e726bf-c3c6-4f0c-8746-ea8cc5a4e61a.mp3",
       "audioLength": 806066,
@@ -548,7 +548,7 @@
     },
     {
       "title": "Week 23 — Hope in Christ",
-      "link": "https://ot2guide.dailyaudio.cf/",
+      "link": "https://ot2-guide.catholicdevotion.org/",
       "description": "Christ is our hope. Let His hope fill you as Ordinary Time continues. Follow along weekly: https://ordinarytime.dailyaudio.cf",
       "audioUrl": "https://op3.dev/e/www.image2url.com/r2/default/files/1787538708296-fb826d22-108d-4d17-b00d-ba06e9e69697.mp3",
       "audioLength": 771880,
@@ -571,7 +571,7 @@
     },
     {
       "title": "Week 24 — The Second Coming",
-      "link": "https://ot2guide.dailyaudio.cf/",
+      "link": "https://ot2-guide.catholicdevotion.org/",
       "description": "As Ordinary Time nears its end, we look forward to Christ's return. Are you ready for His coming? Follow along weekly: https://ordinarytime.dailyaudio.cf",
       "audioUrl": "https://op3.dev/e/www.image2url.com/r2/default/files/1787538793505-63fe99ec-478b-4d36-a344-da1bd8300b43.mp3",
       "audioLength": 816640,
@@ -594,7 +594,7 @@
     },
     {
       "title": "Week 25 — Christ the King",
-      "link": "https://ot2guide.dailyaudio.cf/",
+      "link": "https://ot2-guide.catholicdevotion.org/",
       "description": "The last Sunday of Ordinary Time celebrates Christ the King. Proclaim Him as King of your life. Follow along weekly: https://ordinarytime.dailyaudio.cf",
       "audioUrl": "https://op3.dev/e/www.image2url.com/r2/default/files/1787539203518-0a2ddbc0-9a9c-431b-b630-106591d89863.mp3",
       "audioLength": 2509146,
@@ -617,7 +617,7 @@
     },
     {
       "title": "Week 26 — Living in Expectation",
-      "link": "https://ot2guide.dailyaudio.cf/",
+      "link": "https://ot2-guide.catholicdevotion.org/",
       "description": "As Ordinary Time extends, live in expectation of Christ's return, staying vigilant in faith. Follow along weekly: https://ordinarytime.dailyaudio.cf",
       "audioUrl": "https://op3.dev/e/www.image2url.com/r2/default/files/1787539291296-decd93fd-8cd2-4331-a42d-ad70ba53a29d.mp3",
       "audioLength": 804127,
@@ -640,7 +640,7 @@
     },
     {
       "title": "Week 27 — Faithful Endurance",
-      "link": "https://ot2guide.dailyaudio.cf/",
+      "link": "https://ot2-guide.catholicdevotion.org/",
       "description": "Run the race of faith with endurance as Ordinary Time continues, trusting God's strength. Follow along weekly: https://ordinarytime.dailyaudio.cf",
       "audioUrl": "https://op3.dev/e/www.image2url.com/r2/default/files/1787539368228-4b78784c-25f1-4a70-8336-cc86baa83f34.mp3",
       "audioLength": 792089,
@@ -663,7 +663,7 @@
     },
     {
       "title": "Week 28 — God’s Abundant Grace",
-      "link": "https://ot2guide.dailyaudio.cf/",
+      "link": "https://ot2-guide.catholicdevotion.org/",
       "description": "God’s grace is sufficient for every moment. Trust in His provision as you serve Him. Follow along weekly: https://ordinarytime.dailyaudio.cf",
       "audioUrl": "https://op3.dev/e/www.image2url.com/r2/default/files/1787539505466-94221899-e81a-41e2-9c67-6eeaadbf394c.mp3",
       "audioLength": 753494,
@@ -686,7 +686,7 @@
     },
     {
       "title": "Week 29 — Seeking God’s Kingdom",
-      "link": "https://ot2guide.dailyaudio.cf/",
+      "link": "https://ot2-guide.catholicdevotion.org/",
       "description": "Prioritize God’s Kingdom in all you do, trusting Him to provide for your needs. Follow along weekly: https://ordinarytime.dailyaudio.cf",
       "audioUrl": "https://op3.dev/e/www.image2url.com/r2/default/files/1787539596046-bc7eb097-ca79-4d50-b70a-0dfcb9d4cbeb.mp3",
       "audioLength": 732617,
@@ -709,7 +709,7 @@
     },
     {
       "title": "Week 30 — Preparing for Advent",
-      "link": "https://ot2guide.dailyaudio.cf/",
+      "link": "https://ot2-guide.catholicdevotion.org/",
       "description": "As Ordinary Time draws to a close, prepare your heart for the coming of Advent and Christ’s return. Follow along weekly: https://ordinarytime.dailyaudio.cf",
       "audioUrl": "https://op3.dev/e/www.image2url.com/r2/default/files/1787602370331-ebf2aaf9-ae12-4bbd-9e38-5e5026a0aa1d.mp3",
       "audioLength": 794100,
